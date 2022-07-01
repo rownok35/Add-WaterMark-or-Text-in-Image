@@ -11,8 +11,7 @@ Adding a watermark to an image works as a copyright. Different organizations can
 - - envname\scripts\activate
 - 3 - cd into project
 - 4 - pip install -r requirements.txt
-- 5 - streamlit run main_app.py
-
+- 5 - py app.py
 # Steps
 
 <img src="1.png">
